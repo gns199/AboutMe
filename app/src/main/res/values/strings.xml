@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="gns">GNS</string>
+    <string name="star_imageview">star_imageview</string>
+    <string name="bio">Madison Blackstone is a director of brand marketing,
+        \n with experience managing global teams and multimillion-dollar campaigns.
+        \n Her background in brand strategy, visual design,
+        \n and account management informs her mindful but competitive approach.
+        \n Madison is fueled by her passion for \n understanding the nuances of cross-cultural advertising.
+        \n She considers herself a "forever student,"
+        \n eager to both build on her academic foundations in psychology and sociology,
+        \n and stays in tune with the latest \n digital marketing strategies through continued coursework.
+Madison hunger for knowledge and determination to \n turn information into action has
+       \n contributed to her most recent success at Rockwell Group,
+       \n where she led international, award-winning campaigns for heavy-hitting brands,
+      \n  such as Puma, Gucci, and Rolex. \n Meanwhile, she vastly improved the
+        \n productivity of her team by implementing strategic project
+       \n management methods and ensuring a work-life balance for her department.
+Madison believes mindfulness in the workplace is key to success—a
+       \n tenet she lives out through her interests in yoga, meditation,
+        gardening, and painting. Madison is currently working as a
+      \n  freelance marketing director and is always interested in a challenge.
+      \n  Reach out to madisonblackstone@gmail.com to connect!</string>
+    <string name="your_name">Your Name</string>
+    <string name="done">DONE</string>
+</resources>
